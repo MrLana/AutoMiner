@@ -18,7 +18,7 @@ DOMPET_DIGITAL = {
     "bidget_wallet": "1Ga2SQKYQ1Ge8zUoHp2UTZmvwbY5SByz5K",
     "speedwallet": "bc1q5peufwpqyp37883mp03dn7w70zrl4kqyggy0ak",
     "phantom_wallet": "bc1pzff3n86sgu73wfrk2hmuug972lr4a2cv3tnhutx8hshu698my86s7qc0ch",
-    "faucet_pay": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+    "faucet_pay": "1Ga2SQKYQ1Ge8zUoHp2UTZmvwbY5SByz5K"
 }
 
 PILIHAN_DOMPET = "phantom_wallet"  # Default wallet, bisa diganti sesuai keinginan Yang Mulia
